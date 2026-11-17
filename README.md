@@ -1,6 +1,6 @@
 # Greetings   
 
-- 🎯 I’m currently a Junior studying in HUST - HaNoi University of Science and Technology, Viet Nam.
+- 🎯 I’m currently studying in HUST - HaNoi University of Science and Technology, Viet Nam.
 - 🎯 My primary field of study and working is Cybersecurity and Secure Software Engineering.
 - 🌱 I’m currently learning Docker and SQL databases.
 - 🤝 I’m looking to gaining more experience on DevSecOps and RedTeam operations.
